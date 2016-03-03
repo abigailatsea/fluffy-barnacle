@@ -1,4 +1,6 @@
+
 #calculate reduced stats for data files at J: 100 c/bp
+#hello - minus profanity
 for datafile in "$@"
 do	
 	echo ${datafile}
