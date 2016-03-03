@@ -1,6 +1,7 @@
 
 #calculate reduced stats for data files at J: 100 c/bp
 #hello - minus profanity
+#let's add some more edits
 for datafile in "$@"
 do	
 	echo ${datafile}
